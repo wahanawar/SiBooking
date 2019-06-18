@@ -73,7 +73,7 @@ export default class Lapangan extends Component {
           <Left>
           </Left>
           <Body>
-            <Title>Data User</Title>
+            <Title>Data Lapangan</Title>
           </Body>
           <Right />
         </Header>
